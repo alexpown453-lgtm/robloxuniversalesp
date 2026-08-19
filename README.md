@@ -1,4 +1,6 @@
 To use this script, copy and paste the loadstring below into your executor:
+Tested Script: Delta
+Should work for any type of executor/device
 
 This script includes:
 ESP, Smart ESP, Hitbox Changer.
